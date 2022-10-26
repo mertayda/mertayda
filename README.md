@@ -8,13 +8,13 @@
 </p>
 
 
+ <p align="center"> <img width = 50%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mertayda&layout=compact"/></p>
 
-<img align="left" width = "45%" src="https://github-readme-stats.vercel.app/api?username=mertayda&show_icons=true&theme=radical"/>
-<img align="right" width = "45%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mertayda&layout=compact"/>
 
-<br></br>
-<br></br>
-<br></br>
+
+<p align="center"><img  width = "45%" src="https://github-readme-stats.vercel.app/api?username=mertayda&show_icons=true&theme=radical"/></p>
+
+
 <br></br>
 
 
@@ -75,7 +75,7 @@
 </p>
   
 
- 
- 
+
+
  
  
