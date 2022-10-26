@@ -17,13 +17,15 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 
-<img align="left" width = "47%" src="https://github-readme-stats.vercel.app/api?username=mertayda&show_icons=true&theme=radical"/>
-<img align="left" width = "47%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mertayda&layout=compact"/>
+<img align="left" width = "40%" src="https://github-readme-stats.vercel.app/api?username=mertayda&show_icons=true&theme=radical"/>
+<img align="right" width = "40%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mertayda&layout=compact"/>
 
 <br></br>
 <br></br>
 <br></br>
 <br></br>
+<br></br>
+
 
 
 
