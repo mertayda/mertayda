@@ -7,9 +7,6 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&background=ED5CFF00&center=true&vCenter=true&width=435&lines=Always+Learning+New+Things;Front-End+Developer" alt="Typing SVG" /></a>
 </p>
 
-
-
-
 <img align="left" width = "47%" src="https://github-readme-stats.vercel.app/api?username=mertayda&show_icons=true&theme=radical"/>
 <img align="left" width = "47%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mertayda&layout=compact"/>
 
@@ -25,7 +22,7 @@
 
 <br></br>
 <br></br>
-<br></br>
+
 
 
 ## 🛠️ My favorite tools
