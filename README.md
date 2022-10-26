@@ -72,7 +72,7 @@
 </p>
   
 
-<br></br>
+
 
 
 <p align="center"><img  width = "50%" src="https://github-readme-stats.vercel.app/api?username=mertayda&show_icons=true&theme=radical"/></p>
