@@ -20,6 +20,10 @@
 <img align="left" width = "47%" src="https://github-readme-stats.vercel.app/api?username=mertayda&show_icons=true&theme=radical"/>
 <img align="left" width = "47%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mertayda&layout=compact"/>
 
+<br></br>
+<br></br>
+<br></br>
+<br></br>
 
 
 
