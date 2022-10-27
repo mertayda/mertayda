@@ -8,7 +8,7 @@
 </p>
 
   
- <p align="center"> <img width = 50%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mertayda&layout=compact"/></p>
+ <p align="center"> <img width = "50%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mertayda&layout=compact"/></p>
 
 
 
